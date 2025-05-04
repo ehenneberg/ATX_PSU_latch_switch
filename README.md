@@ -8,5 +8,4 @@ Atmel Studio 7 is used for compiling and flashing the Attiny.
 
 ![ATX PSU Attiny latch switch_sch](https://github.com/user-attachments/assets/35e23b4a-6734-4873-8d9d-08fc3bd76698)
 
-![ATX_PSU_Attiny_latch_switch_pcb](https://github.com/user-attachments/assets/8d0eddd1-d210-48cc-850e-0380f82a01d0)
 
