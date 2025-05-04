@@ -4,6 +4,10 @@ This is a simple circuit to control an ATX power supply with a push button.
 The ATX PSU is normally controlled by the ATX motherboard, but for my
 retro AT motherboard build, I made this small circuit with an Attiny25/45/85.
 
+A short power button push activates the ATX PSU, and 1.5 sec. button push
+shuts down the ATX PSU. Somewhat similar to the way an ATX PSU is controlled
+by an ATX/ITX motherboard.
+
 Atmel Studio 7 is used for compiling and flashing the Attiny.
 
 ![ATX PSU Attiny latch switch_sch](https://github.com/user-attachments/assets/35e23b4a-6734-4873-8d9d-08fc3bd76698)
